@@ -1,0 +1,14 @@
+do a nmap scan of the ip address
+
+find a log in and password
+
+look at files in ftp directory
+
+found recipe.txt
+
+find password for Lennie after looking into suspicious.pcapng
+log into Lennie's account
+find user.txt
+
+change the print.sh shell file out to gain root
+find root.txt
